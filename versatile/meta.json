@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+      {
+        "id": "v8",
+        "releasedAt": 1721566760000,
+        "updateType": "minor"
+      }
+    ]
+  }
